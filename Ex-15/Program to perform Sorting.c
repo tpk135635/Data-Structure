@@ -1,3 +1,7 @@
+Name:D.Theepak Palani Kumar 
+Reg no:230701363
+Ex-15:Program to perform Sorting
+
 #include <stdio.h> 
 #include <stdlib.h> 
  
