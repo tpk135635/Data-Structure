@@ -1,6 +1,6 @@
 Name:D.Theepak Palani Kumar 
 Reg no:230701363
-Ex-01:Applications of Stack (Infix to Postfix)
+Ex-05:Applications of Stack (Infix to Postfix)
 
 #include <stdio.h> 
 #include <stdlib.h> 
