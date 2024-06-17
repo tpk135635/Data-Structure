@@ -1,3 +1,7 @@
+Name:D.Theepak Palani Kumar 
+Reg no:230701363
+Ex-01:Applications of Singly Linked List (Polynomial Manipulation)
+
 #include <stdio.h>
 #include <stdlib.h>
 
