@@ -1,4 +1,6 @@
-
+Name:D.Theepak Palani Kumar 
+Reg no:230701363
+Ex-16:Implementation Techniques of Collision Resolution Techniques
 #include <stdio.h>
 #include <stdlib.h>
 #include <stdbool.h>
