@@ -1,3 +1,7 @@
+Name:D.Theepak Palani Kumar 
+Reg no:230701363
+Ex-01:Performing Tree Traversal Techniques
+
 #include <stdio.h>
 #include <stdlib.h>
 
