@@ -1,6 +1,6 @@
 Name:D.Theepak Palani Kumar 
 Reg no:230701363
-Ex-01:Implementation of Stack using Linked List implementation
+Ex-04:Implementation of Stack using Linked List implementation
 
 #include <stdio.h>
 #include <stdlib.h>
