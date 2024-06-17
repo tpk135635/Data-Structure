@@ -1,3 +1,7 @@
+Name:D.Theepak Palani Kumar 
+Reg no:230701363
+Ex-10:Implementation of AVL Tree
+
 #include <stdio.h> 
 #include <stdlib.h> 
  
