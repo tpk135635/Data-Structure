@@ -1,3 +1,7 @@
+Name:D.Theepak Palani Kumar 
+Reg no:230701363
+Ex-12:Performing Topological Sorting
+
 #include <stdio.h>
 #include <stdlib.h>
 
