@@ -1,6 +1,6 @@
 Name:D.Theepak Palani Kumar 
 Reg no:230701363
-Ex-01:Implementation of Doubly Linked List (Insertion, Deletion and Display)
+Ex-02:Implementation of Doubly Linked List (Insertion, Deletion and Display)
 
 #include <stdio.h>
 #include <stdlib.h>
