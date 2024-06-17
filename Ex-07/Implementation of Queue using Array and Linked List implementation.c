@@ -1,3 +1,7 @@
+Name:D.Theepak Palani Kumar 
+Reg no:230701363
+Ex-01:Implementation of Queue using Array and Linked List implementation
+
 #include <stdio.h> 
 #include <stdlib.h> 
  
