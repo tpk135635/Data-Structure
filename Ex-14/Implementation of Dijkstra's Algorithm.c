@@ -1,3 +1,7 @@
+Name:D.Theepak Palani Kumar 
+Reg no:230701363
+Ex-14:Implementation of Dijkstra's Algorithm
+    
 #include<stdio.h>
 #define inf 99999
 #define max 100
