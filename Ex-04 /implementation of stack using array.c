@@ -1,6 +1,6 @@
 Name:D.Theepak Palani Kumar 
 Reg no:230701363
-Ex-01:implementation of stack using array
+Ex-04:implementation of stack using array
 
 #include <stdio.h>
 #include <stdlib.h>
