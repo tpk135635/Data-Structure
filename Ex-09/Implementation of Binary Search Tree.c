@@ -1,6 +1,6 @@
 Name:D.Theepak Palani Kumar 
 Reg no:230701363
-Ex-01:Implementation of Binary Search Tree
+Ex-09:Implementation of Binary Search Tree
 
 #include <stdio.h>
 #include <stdlib.h>
