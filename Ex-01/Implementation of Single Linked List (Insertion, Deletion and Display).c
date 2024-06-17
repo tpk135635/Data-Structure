@@ -1,3 +1,8 @@
+Name:D.Theepak Palani Kumar 
+Reg no:230701363
+Ex-01:Implementation of Single Linked List (Insertion, Deletion and Display)
+
+
 #include <stdio.h>
 #include <stdlib.h>
 
