@@ -1,6 +1,6 @@
 Name:D.Theepak Palani Kumar 
 Reg no:230701363
-Ex-01:Applications of Stack (Evaluating Arithmetic Expression)
+Ex-06:Applications of Stack (Evaluating Arithmetic Expression)
 
 #include <stdio.h> 
 #include <stdlib.h> 
